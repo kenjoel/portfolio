@@ -6,4 +6,10 @@ $(document).ready(function (){
             $('.navbar').removeClass('sticky')
         }
     })
+
+    //toggle nav-menu
+    $('.menu-btn').click(function(){
+        $('.navbar .menu').toggleClass("active");
+        $('.menu-btn i').toggleClass("active");
+    })
 })
