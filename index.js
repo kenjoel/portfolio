@@ -43,7 +43,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-2", {
         strings: ["Software Developer"],
-        typeSpeed: 100,
+        typeSpeed: 1000,
         backSpeed: 60,
         loop: true
     });

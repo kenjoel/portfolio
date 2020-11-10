@@ -31,7 +31,7 @@ section{
     padding: 100px 0;
 }
 .max-width{
-    max-width: 1300px;
+    max-width: 1700px;
     padding: 0 80px;
     margin: auto;
 }
@@ -103,6 +103,7 @@ section .title::after{
 .navbar .logo a span{
     color: crimson;
     transition: all 0.3s ease;
+
 }
 .navbar.sticky .logo a span{
     color: #fff;
@@ -362,13 +363,13 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 90%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 90%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
